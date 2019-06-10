@@ -18,6 +18,7 @@
         </DecorationPartConfig>
       </list>
     </option>
+    <option name="blameInlineShowSubject" value="false" />
     <option name="previousVersionMigrated" value="true" />
   </component>
 </application>
