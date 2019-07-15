@@ -1,18 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactDropdowns" value="true" />
-    <option name="darkTitleBar" value="true" />
-    <option name="isCompactMenus" value="true" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="isCompactTables" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="pristineConfig" value="false" />
-    <option name="tabOpacity" value="100" />
-    <option name="settingsSelectedTab" value="6" />
-    <option name="accentColor" value="2e8e5f" />
-    <option name="selectedTheme" value="SOLARIZED_DARK" />
-    <option name="userId" value="-4f68281d:16a7ed24dfd:-8000" />
+    <option name="userId" value="18aba1a8:16bf78413a1:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
 </application>
