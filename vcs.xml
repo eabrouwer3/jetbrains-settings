@@ -50,6 +50,10 @@
           <option name="url" value="git@bitbucket.org:taxbit-team/api-testing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:taxbit-team/taxbit-frontend-v2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/source" />
