@@ -7,6 +7,7 @@
       <mapping pattern="transactions2" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="taxbit-app-notimplemented.json" type="PLAIN_TEXT" />
+      <mapping ext="npz" type="PLAIN_TEXT" />
       <mapping pattern=".coverage" type="YAML" />
     </extensionMap>
   </component>
