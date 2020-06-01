@@ -1,0 +1,20 @@
+<application>
+  <component name="aws">
+    <option name="promptedForTelemetry" value="true" />
+    <option name="telemetryEnabled" value="true" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="id" value="cloud-debugCli" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="executablePath" value="$USER_HOME$/.virtualenvs/aws/bin/sam" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1591032662945" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+</application>
