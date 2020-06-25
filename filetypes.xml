@@ -6,6 +6,7 @@
       <mapping pattern="taxbit-app-notimplemented.json" type="PLAIN_TEXT" />
       <mapping pattern="integrations" type="PLAIN_TEXT" />
       <mapping pattern=".coverage" type="YAML" />
+      <removed_mapping ext="vtl" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
