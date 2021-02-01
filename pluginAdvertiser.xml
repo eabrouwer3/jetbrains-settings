@@ -77,8 +77,8 @@
         <entry key="*.apk">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -440,15 +440,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.ejs">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.lang.ejs" />
-              <option name="myPluginName" value="EJS" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.elt">
           <value>
             <plugin>
@@ -671,29 +662,11 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.handlebars">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.dmarcotte.handlebars" />
-              <option name="myPluginName" value="Handlebars/Mustache" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.har">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.hbs">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.dmarcotte.handlebars" />
-              <option name="myPluginName" value="Handlebars/Mustache" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -826,15 +799,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.jade">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.jade" />
-              <option name="myPluginName" value="Pug (ex-Jade)" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1232,15 +1196,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.mustache">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.dmarcotte.handlebars" />
-              <option name="myPluginName" value="Handlebars/Mustache" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.ng">
           <value>
             <plugin>
@@ -1437,17 +1392,8 @@
         <entry key="*.psd">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.platform.images" />
-              <option name="myPluginName" value="com.intellij.platform.images" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.pug">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.jade" />
-              <option name="myPluginName" value="Pug (ex-Jade)" />
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1596,15 +1542,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.spacebars">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.meteor" />
-              <option name="myPluginName" value="Meteor" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.sql">
           <value>
             <plugin>
@@ -1736,14 +1673,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.toml">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.toml.lang" />
-              <option name="myPluginName" value="Toml" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.trace">
           <value>
             <plugin>
@@ -1838,15 +1767,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.velocity" />
               <option name="myPluginName" value="Velocity" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.vue">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.plugins.vue" />
-              <option name="myPluginName" value="Vue.js" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2148,15 +2068,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key=".prettierrc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key=".project">
           <value>
             <plugin>
@@ -2202,14 +2113,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="Cargo.lock">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.toml.lang" />
-              <option name="myPluginName" value="Toml" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="Dockerfile">
           <value>
             <plugin>
@@ -2252,22 +2155,6 @@
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="Gopkg.lock">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.toml.lang" />
-              <option name="myPluginName" value="Toml" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="Pipfile">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.toml.lang" />
-              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
