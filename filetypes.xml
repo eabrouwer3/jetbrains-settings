@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="integrations" type="PLAIN_TEXT" />
       <mapping pattern="taxbit-app-notimplemented.json" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern=".coverage" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
