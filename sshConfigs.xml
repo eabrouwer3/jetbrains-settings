@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="app-server.taxbit.com" id="6b45c56e-d97a-443e-ae91-cd7d31aeaf17" keyPath="$USER_HOME$/.ssh/taxbit" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+      <sshConfig host="vader.txbt.io" id="6b45c56e-d97a-443e-ae91-cd7d31aeaf17" keyPath="$USER_HOME$/.ssh/taxbit" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
       <sshConfig host="ec2-54-163-17-195.compute-1.amazonaws.com" id="6fe461ae-7cec-4c54-9309-ece086d98a31" keyPath="$USER_HOME$/.ssh/taxbit_staging" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
     </configs>
   </component>
