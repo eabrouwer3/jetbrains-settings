@@ -10,20 +10,20 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.txt</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
+    <mask>*.html</mask>
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.txt</mask>
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.pyw</mask>
-    <mask>*.py</mask>
   </component>
 </application>
