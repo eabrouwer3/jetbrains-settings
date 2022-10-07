@@ -1,4 +1,4 @@
-<filetype binary="false" default_extension="vtl" description="Apache VTL" name="Apache VTL">
+<filetype binary="false" description="Apache VTL" name="Apache VTL">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="" />
