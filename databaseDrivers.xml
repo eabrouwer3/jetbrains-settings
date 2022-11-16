@@ -2,7 +2,7 @@
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="postgresql">
       <url-template name="new" template="jdbc:postgresql://http://taxbit-db-cluster.cluster-coj8zyvaav5h.us-east-1.rds.amazonaws.comtaxbit-db-cluster.cluster-coj8zyvaav5h.us-east-1.rds.amazonaws.com/:5432/postgres" />
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.5.0" />
     </driver>
     <driver id="redshift">
       <artifact id="Redshift" name="Redshift" use="true" version="2.1.0.1" />
