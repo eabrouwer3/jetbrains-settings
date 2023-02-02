@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="jinja" type="Jinja2" />
       <mapping ext="j2" type="Jinja2" />
-      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="taxbit-app-notimplemented.json" type="PLAIN_TEXT" />
       <mapping pattern="integrations" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
