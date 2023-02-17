@@ -9,5 +9,8 @@
     <local-interpreter path="$USER_HOME$/.local/share/nvm/v12.20.1/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.local/share/nvm/v18.12.1/bin/node">
+      <version-cache version="18.12.1" last-modified="1667584364000" />
+    </local-interpreter>
   </component>
 </application>
