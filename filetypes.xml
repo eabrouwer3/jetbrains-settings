@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="taxbit-app-notimplemented.json" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="integrations" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
