@@ -1,0 +1,39 @@
+<application>
+  <component name="aws_codeartifact_maven.state">
+    <option name="version" value="3" />
+    <option name="mavenSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+    <option name="awsPath" value="/usr/local/bin/aws" />
+    <option name="mavenServerId" value="coderazzi-project-yz" />
+    <option name="awsProfile" value="default" />
+    <option name="allProfiles">
+      <set>
+        <option value="blockfi" />
+        <option value="blockfi-staging" />
+        <option value="default" />
+        <option value="dev-staging" />
+        <option value="infra-sandbox-developers" />
+        <option value="paypal-staging" />
+        <option value="personal" />
+        <option value="pp-prod" />
+        <option value="sandbox" />
+        <option value="staging-analytics" />
+        <option value="taxbit" />
+      </set>
+    </option>
+    <option name="allMavenServerIds">
+      <set>
+        <option value="coderazzi-project-yz" />
+      </set>
+    </option>
+    <option name="domains">
+      <map>
+        <entry key="coderazzi-project-yz" value="taxbit" />
+      </map>
+    </option>
+    <option name="domainOwners">
+      <map>
+        <entry key="coderazzi-project-yz" value="659132082063" />
+      </map>
+    </option>
+  </component>
+</application>
